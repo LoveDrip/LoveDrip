@@ -1,9 +1,3 @@
-<h2 align="center">
- Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Wellcome to my github 🙋‍♂️
-</h2> 
-
-
-### **_Contact Details_**
 <p align='center'>
   <a href="https://t.me/DripMicro">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
