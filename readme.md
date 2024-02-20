@@ -6,6 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveDrip&layout=compact&langs_count=10&theme=dark"/>
 <!--    <img src="https://streak-stats.demolab.com?user=Backendeng&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" /> -->
 <!--    <img src="https://github-profile-trophy.vercel.app/?username=backendeng&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" alt="backendeng" /> -->
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoveDrip&theme=react-dark&hide_border=true" /> 
+<!--    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoveDrip&theme=react-dark&hide_border=true" />  -->
   </a>
 </div>
